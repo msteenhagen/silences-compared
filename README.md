@@ -4,4 +4,4 @@ An experiment in visualising scholarly development. This repository contains bot
 
 The full bibliographic reference for the material contained in the current branch ('master') is:
 
-- Charles Travis (2004) 'The Silence of the Senses', _Mind_ 113(449), pp. 57-94
+- Charles Travis (2013) 'The Silences of the Senses.' In: _Perception: Essays after Frege_ Oxford: Oxford University Press, pp. 23-58
